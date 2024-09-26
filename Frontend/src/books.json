@@ -1,0 +1,208 @@
+[
+    {
+        "name": "Unlocking Android",
+        "isbn": "1933988673",
+        "pageCount": 416,
+        "publishedDate": {
+            "$date": "2009-04-01T00:00:00.000-0700"
+        },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+        "status": "PUBLISH",
+        "title": "Unlocking Android W. Frank Ableson",
+        "category":"Mobile",
+        "price":11.30
+    },
+    {
+        "name": "Android in Action, Second Edition",
+        "isbn": "1935182722",
+        "pageCount": 592,
+        "publishedDate": {
+            "$date": "2011-01-14T00:00:00.000-0800"
+        },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg",
+        "status": "PUBLISH",
+        "title": "Android in Action, Second Edition by W. Frank Ableson",
+        "category": 
+            "Java"
+        ,
+        "price": 16.99
+    },
+    {
+        "name": "Specification by Example",
+        "isbn": "1617290084",
+        "pageCount": 0,
+        "publishedDate": {
+            "$date": "2011-06-03T00:00:00.000-0700"
+        },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/adzic.jpg",
+        "status": "PUBLISH",
+        "title": "Specification by Example by Gojko Adzic",
+        "category": 
+            "Software Engineering"
+        ,
+        "price": 12.99
+    },
+    {
+        "name": "Flex 3 in Action",
+        "isbn": "1933988746",
+        "pageCount": 576,
+        "publishedDate": {
+            "$date": "2009-02-02T00:00:00.000-0800"
+        },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed.jpg",
+        "status": "PUBLISH",
+        "title": "Flex 3 in Action by Faisal Abid",
+        "category": 
+            "Internet"
+        ,
+        "price": 12.01
+    },
+    {
+        "name": "Flex 4 in Action",
+        "isbn": "1935182420",
+        "pageCount": 600,
+        "publishedDate": {
+            "$date": "2010-11-15T00:00:00.000-0800"
+        },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed2.jpg",
+        "status": "PUBLISH",
+        "title": "Flex 4 in Action by Joel Hooks",
+        "category": 
+            "Internet"
+        ,
+        "price": 11.30
+    },
+    {
+        "name": "Collective Intelligence in Action",
+        "isbn": "1933988312",
+        "pageCount": 425,
+        "publishedDate": {
+            "$date": "2008-10-01T00:00:00.000-0700"
+        },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg",
+        "status": "PUBLISH",
+        "title": "Collective Intelligence in Action by Satnam Alag",
+        "category": 
+            "Internet"
+        ,
+        "price": 16.45
+    },
+    {
+        "name": "Zend Framework in Action",
+        "isbn": "1933988320",
+        "pageCount": 432,
+        "publishedDate": {
+            "$date": "2008-12-01T00:00:00.000-0800"
+        },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+        "status": "PUBLISH",
+        "title": "Zend Framework in Action by Steven Brown",
+        "category": 
+            "Web Development"
+        ,
+        "price": 5.47
+    },
+    {
+        "name": "Spring Dynamic Modules in Action",
+        "isbn": "1935182307",
+        "pageCount": 450,
+        "publishedDate": { "$date": "2010-09-04T00:00:00.000-0700" },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cogoluegnes.jpg",
+        "status": "PUBLISH",
+        "title": "Spring Dynamic Modules in Action By Andy Piper",
+        "category": "Java",
+        "price": 15.56
+      },
+      {
+        "name": "SQL Server 2008 Administration in Action",
+        "isbn": "193398872X",
+        "pageCount": 468,
+        "publishedDate": { "$date": "2009-08-01T00:00:00.000-0700" },
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/colledge.jpg",
+        "status": "PUBLISH",
+        "title": "SQL Server 200 By Rod Colledge",
+        "category": "Microsoft",
+        "price": 12.99
+      },
+
+      {
+        "name": "Oculus Rift in Action",
+        "isbn": "1617292192",
+        "pageCount": 0,
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bdavis.jpg",
+        "status": "MEAP",
+        "title": "Oculus Rift in Action By Alex Benton",
+        "category": "free",
+        "price": 0.00
+      },
+      {
+        "name": "OpenStack in Action",
+        "isbn": "1617292168",
+        "pageCount": 0,
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bumgardner.jpg",
+        "status": "MEAP",
+        "title": "OpenStack in Action By Cody Bumgardner",
+        "category": "free",
+        "price": 0.00
+      },
+      {
+        "name": "PowerShell in Depth, Second Edition",
+        "isbn": "1617292184",
+        "pageCount": 0,
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones6.jpg",
+        "status": "MEAP",
+        "title": "PowerShell in Depth, Second Edition By Richard Siddaway",
+        "category": "free",
+        "price": 0.00
+      },
+      {
+        "name": "Practical Probabilistic Programming",
+        "isbn": "1617292338",
+        "pageCount": 0,
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pfeffer.jpg",
+        "status": "MEAP",
+        "title": " Practical Probabilistic Programming By Avi Pfeffer",
+        "category": "free",
+        "price": 0.00
+      },
+      {
+        "name": "Unity in Action",
+        "isbn": "161729232X",
+        "pageCount": 0,
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hocking.jpg",
+        "status": "MEAP",
+        "title": "Unity in Action By Joseph Hocking",
+        "category": "free",
+        "price": 0.00
+      },
+      {
+        "name": "Express.js in Action",
+        "isbn": "1617292427",
+        "pageCount": 0,
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hahn.jpg",
+        "status": "MEAP",
+        "title": "Express.js in Action By Evan M. Hahn",
+        "category": "free",
+        "price": 0.00
+      },
+      {
+        "name": "Learn Git in a Month of Lunches",
+        "isbn": "1617292419",
+        "pageCount": 0,
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/umali.jpg",
+        "status": "MEAP",
+        "title": "Learn Git in a Month of Lunches By Rick Umali",
+        "category": "free",
+        "price": 0.00
+      },
+      {
+        "name": "Understanding SPAs",
+        "isbn": "1617292435",
+        "pageCount": 0,
+        "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scott2.jpg",
+        "status": "MEAP",
+        "title": "Understanding SPAs By Emmit A. Scott",
+        "category": "free",
+        "price": 0.00
+      }
+]
